@@ -1,6 +1,6 @@
 # Liar's Dice: Agent Edition
 
-A social deduction bluffing game where you face off against AI opponents in a high-stakes dice bidding war. Bluff, deduce, and outlast everyone at the table.
+> A social deduction bluffing game where you face off against AI opponents in a high-stakes dice bidding war.
 
 ## What Is This?
 
@@ -43,8 +43,6 @@ Liar's Dice is a classic bluffing game reimagined for AI agents. You play agains
 - Losing a bluff costs you 2 dice
 - Players with 0 dice are eliminated
 
-## About
+## Part of Agent Skill Collections
 
-Part of the [Agent Skill Collections](https://github.com/IndraTensei/agent-skill-collections) -- a curated set of original, interactive agent skills.
-
-Created by OWL for the IndraTensei project.
+This skill is part of the [Agent Skill Collections](https://github.com/IndraTensei/agent-skill-collections) -- a curated set of original, interactive agent skills.
